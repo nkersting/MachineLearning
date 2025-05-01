@@ -1,0 +1,40 @@
+Start of Log
+Now training with device=cpu
+Using model with params on CUDA: False
+EPOCH: 0
+Batch 0: train loss: 0.696816623210907
+Batch 100: train loss: 0.6500580310821533
+Batch 200: train loss: 0.6790027022361755
+Batch 300: train loss: 0.6565102934837341
+Batch 400: train loss: 0.6069412231445312
+Batch 500: train loss: 0.6084862947463989
+Batch 600: train loss: 0.6472079157829285
+Batch 700: train loss: 0.6233185529708862
+Batch 800: train loss: 0.6151746511459351
+Batch 900: train loss: 0.6151500940322876
+Batch 1000: train loss: 0.6489453315734863
+Batch 1100: train loss: 0.5894832015037537
+Batch 1200: train loss: 0.6119170188903809
+Batch 1300: train loss: 0.6617540121078491
+Batch 1400: train loss: 0.6292824745178223
+Batch 1500: train loss: 0.6348507404327393
+Batch 1600: train loss: 0.6097414493560791
+Batch 1700: train loss: 0.5948259830474854
+Batch 1800: train loss: 0.6456041932106018
+Batch 1900: train loss: 0.6150934100151062
+Validation Batch 0: loss: 0.6096493601799011
+Validation Batch 100: loss: 0.6497904062271118
+Validation Batch 200: loss: 0.6242625117301941
+Validation Batch 300: loss: 0.5740669369697571
+Validation Batch 400: loss: 0.6087504625320435
+Validation Batch 500: loss: 0.5939156413078308
+Validation Batch 600: loss: 0.6505966782569885
+Validation Batch 700: loss: 0.6132548451423645
+AVERAGE BATCH VAL LOSS = 0.6180508136749268
+Time elapsed in training: 43.86771607398987 seconds
+TRAINING: (S,B) = (24.006,1309.392), (TP,FP) = 10630, 2860
+TRAINING: (S,B) = (24.006,1309.392), AMS=0.659, Unweighted Precision = 0.788
+VALIDATION: (S,B) = (24.453,1612.553), (TP,FP) = 4448, 1288
+VALIDATION: (S,B) = (24.453,1612.553), AMS=0.606, Unweighted Precision = 0.775
+TESTING: (S,B) = (22.552,1270.870), (TP,FP) = 18153, 4905
+TESTING: (S,B) = (22.552,1270.870), AMS=0.628, Unweighted Precision = 0.787

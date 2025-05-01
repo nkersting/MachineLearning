@@ -1,0 +1,3 @@
+TRAINING: (S,B) = (260.255,7055.661), AMS=3.077, Unweighted Precision = 0.889
+VALID: (S,B) = (427.961,23656.495), AMS=2.774, Unweighted Precision = 0.754
+TEST: (S,B) = (268.659,16633.524), AMS=2.077, Unweighted Precision = 0.754
